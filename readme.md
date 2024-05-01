@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Encontrar arquivo por extensão
 
 Esse programa utiliza 2 parâmetros: Um caminho (/home/user/Documentos) e uma extensão (.txt).
 
