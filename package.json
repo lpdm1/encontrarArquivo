@@ -10,5 +10,18 @@
   },
   "devDependencies": {
     "vite": "^5.2.0"
-  }
+  },
+  "description": "Esse programa utiliza 2 parâmetros: Um caminho (/home/user/Documentos) e uma extensão (.txt).",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpdm1/encontrarArquivo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lpdm1/encontrarArquivo/issues"
+  },
+  "homepage": "https://github.com/lpdm1/encontrarArquivo#readme"
 }
